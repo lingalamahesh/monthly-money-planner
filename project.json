@@ -1,0 +1,27 @@
+{
+  "overview": "A premium, mobile-first monthly budgeting and investment planner designed for Indian families and couples. Helps users divide their take-home salary across household needs, emergency safety, investments, and long-term family goals using structured allocation rules.",
+  "features": [
+    "Monthly take-home income input with Indian Rupee formatting",
+    "Conservative, Balanced, and Aggressive allocation mode selector",
+    "3-part salary split: Essentials, Emergency, Investments dashboard",
+    "Investment allocation with donut chart across Equity, Debt, Commodities, and Crypto",
+    "Equity roadmap: Large Cap, Mid Cap, Small Cap breakdown",
+    "Debt breakdown: Liquid, Short Duration, Target Maturity funds",
+    "Gold and Silver diversification section",
+    "Goal-based family plan: Child Education, Retirement, Home Purchase, Vacation",
+    "Complete monthly split summary view",
+    "WhatsApp share button for partner sharing",
+    "Educational disclaimer footer"
+  ],
+  "category": "finance-budgeting",
+  "tags": [
+    "finance",
+    "budgeting",
+    "india",
+    "family",
+    "investment",
+    "mobile-first",
+    "planner"
+  ],
+  "last_updated": "2026-05-18T02:05:14.516Z"
+}
